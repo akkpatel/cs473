@@ -1,0 +1,6 @@
+<parameters>
+<docFormat>web</docFormat>
+<outputFile>test_docs_queries.data</outputFile>
+<stemmer>porter</stemmer>
+<stopwords>stopwordlist</stopwords>
+</parameters>

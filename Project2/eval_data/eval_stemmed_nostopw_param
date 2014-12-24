@@ -1,0 +1,9 @@
+<parameters>
+<index>training_docs.ifp</index>
+<query>test_docs_queries.data</query>
+<weightScheme>RawTF</weightScheme>
+<result>result_rawtf_stemmed_nostopw</result>
+<classResultFile> class_Result_File_RawTF_kNN5</classResultFile>
+<resultCount>150</resultCount>
+<kNN>1</kNN>
+</parameters>

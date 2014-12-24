@@ -1,0 +1,7 @@
+<parameters>
+<index>purdue_cs_data_stemmed_nostopw_index.ifp</index>
+<query>purdue_cs_query_file.query</query>
+<weightScheme>Okapi</weightScheme>
+<result>result_purdue_cs_okapi_stemmed_nostopw</result>
+<resultCount>50</resultCount>
+</parameters>
